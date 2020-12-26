@@ -11,3 +11,15 @@ To get an overview of which features are most important for a model we can plot 
 The explanation shows features each contributing to push the model output from the base value (the average model output over the training dataset we passed) to the model output. Features pushing the prediction higher are shown in red, those pushing the prediction lower are in blue
 
 ![Screenshot](screen_of_single_plot_html.jpeg)
+
+
+Pie plot of top 5 features impact
+![Screenshot](pie_all_impact.png)
+
+
+Pie plot of top 5 features impact on positive class
+![Screenshot](pos.png)
+
+
+Pie plot of top 5 features impact on negative class
+![Screenshot](neg.png)
